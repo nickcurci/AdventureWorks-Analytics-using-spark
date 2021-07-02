@@ -5,4 +5,3 @@
 * pySpark useage
 * SQL syntax use
 * changing visualization based on value input in widget
-* 
